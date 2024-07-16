@@ -1,2 +1,2 @@
 # laravel-landingpage-backup
-static landingpage inside larval framwork
+Static landingpage inside larval framework
